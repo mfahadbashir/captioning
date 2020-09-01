@@ -16,3 +16,6 @@ c. inference.ipynb = code for getting Captions
 5. res.zip and res_new.zip are the images with generated captions
 
 Run the notebook files cell by cell to run the code.
+
+res.zip, res_new.zip, and weight(.pth) files are in the link below as size>25mb.
+https://drive.google.com/drive/folders/183x0z5XWutR6CAW62JWnuyv2N9pbIhLh?usp=sharing
